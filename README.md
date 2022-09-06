@@ -1,6 +1,6 @@
 # hp printer driver download
 
-[![hp printer driver download](gett-detail.png)](https://github.com/ensoftonic/hp.printer.driver.download)
+[![hp printer driver download](gett-detail.png)](https://icncomputer.com/hp-printer-driver-download/)
 
 Updating your HP printer Drivers regularly is an important aspect of keeping your devices working well and avoiding PC and Printer issues. If you are unsure about whether or not your Drivers are up-to-date, you should download a Driver Update Tool and run a free Drivers scan of your PC. The software will check if your HP Deskjet Drivers are up-to-date. If your Drivers need to be updated you can either search the HP website for updated drivers or register the drivers software to receive automated Driver updates for all your devices.
 
